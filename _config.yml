@@ -20,6 +20,8 @@ mailing_list_link: "https://groups.google.com/g/plateau-announcements"
 # room_number_or_description:
 
 organizers:
+  - name: Jon Bell
+    affiliation: Northeastern University
   - name: Sarah E. Chasins
     affiliation: University of California, Berkeley
   - name: Elena Glassman
@@ -28,12 +30,6 @@ organizers:
     affiliation: Carnegie Mellon University
 
 student_organizers:
-  - name: Priyan Vaithilingam
-    affiliation: Harvard University
-  - name: Tyler Holloway
-    affiliation: Harvard University
-  - name: Justin Lubin
-    affiliation: University of California, Berkeley
   - name: Ian McCormack
     affiliation: Carnegie Mellon University
     
