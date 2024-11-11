@@ -34,11 +34,35 @@ student_organizers:
   - name: Ian McCormack
     affiliation: Carnegie Mellon University
     
-#mentors:
-#  - name: Craig Anslow
-#    affiliation: Victoria University of Wellington
-
-
+mentors:
+  - name: Titus Barik
+    affiliation: Apple
+  - name: Will Chrichton
+    affiliation: Brown University
+  - name: Michael Coblenz
+    affiliation: UC San Diego
+  - name: Thomas D. LaToza
+    affiliation: George Mason University
+  - name: Joe Gibbs Politz
+    affiliation: UC San Diego
+  - name: Harry Goldstein
+    affiliation: University of Maryland
+  - name: Andy Gordon
+    affiliation: Cogna
+  - name: Mark Guzdial
+    affiliation: University of Michigan
+  - name: Andrew Head
+    affiliation: University of Pennsylvania
+  - name: Toby Li
+    affiliation: Notre Dame
+  - name: Tim Nelson
+    affiliation: Brown University
+  - name: Steve Oney
+    affiliation: University of Michigan
+  - name: Hila Peleg
+    affiliation: Technion
+  - name: Mark Santolucito
+    affiliation: Barnard
 
 # build settings
 exclude: ["readme.md"]
