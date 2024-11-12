@@ -14,7 +14,7 @@ sublocation: "102 West Village H"
 workshop_date: "February 17-18, 2025"
 submission_date: "December 4th, 2024"
 #backup_submission_date: "Tuesday, January 10th, 2023"
-#submission_site: "https://easychair.org/conferences/?conf=plateau2023"
+submission_site: "https://plateau25.apps.in.ripley.cloud/signin"
 #registration_site: "https://forms.gle/9kLW3SSa1naGnTEw6"
 mailing_list_link: "https://groups.google.com/g/plateau-announcements"
 #proceedings_site: "TBD"
@@ -63,6 +63,8 @@ mentors:
     affiliation: Technion
   - name: Mark Santolucito
     affiliation: Barnard
+  - name: Marsha Chechik
+    affiliation: University of Toronto
 
 # build settings
 exclude: ["readme.md"]
