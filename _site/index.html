@@ -172,6 +172,15 @@
     font sizes are legible.
   </p>
 
+  <p>
+  The PLATEAU template uses XeLaTeX, which has a few compatibility issues when used with VSCode's LaTeX Workshop extension. If you are using this extension and having problems, try the following troubleshooting steps:
+    <ul>
+      <li>Navigate to the settings menu for the XeLaTeX extension and uncheck the "Force Recipe Usage" checkbox.</li>
+      <li>At the top of <code>main.tex</code>, change the comment "<code>!TEX TS-program = XeLaTeX</code>" to "<code>!TEX TS-program = xelatex</code>", in lowercase.</li>
+      <li>Below this comment, add "<code>!BIB TS-program = biber</code>"</li>
+    </ul>
+  Contact <a href="mailto:icmccorm@andrew.cmu.edu">Ian McCormack</a> if you have any further issues. We will be using a different template starting in 2026 to avoid these issues.
+  </p>
   <div class="header lead">Proceedings</div>
   <p>
     The PLATEAU proceedings will be archived in Carnegie Mellon University's
@@ -214,7 +223,6 @@
     participate in PLATEAU, please email us at
     <span class="email">plateau-chairs@googlegroups.com</span> to discuss
     options.
-    Note: We’re keeping an eye on the news.  We’ll post any updates to PLATEAU’s format here on the website if the public health situation makes the current in-person plan impossible.
   </p>
 
 
