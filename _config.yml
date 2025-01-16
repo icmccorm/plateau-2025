@@ -80,8 +80,8 @@ navbar_links:
   - title: "Home"
     url: "/"
     newtab: false
-#  - title: "Registration"
-#    url: "/registration"
+  - title: "Registration"
+    url: "/registration"
 #    newtab: false
 #  - title: "Program"
 #    url: "/program"
